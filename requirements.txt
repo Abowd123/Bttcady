@@ -1,0 +1,30 @@
+# Telegram and storage
+pyrogram==2.0.97
+tgcrypto
+redis>=5,<7
+kvsqlite
+
+# HTTP and external services
+requests>=2.31,<3
+httpx[http2]>=0.27,<1
+aiohttp>=3.9,<4
+python-arq
+
+# Downloading and media
+yt-dlp
+youtube-search
+pytube
+wget
+shazamio
+Pillow
+SpeechRecognition
+pydub
+gTTS
+mutagen
+
+# Utilities and features
+pytz
+hijri-converter
+akinator
+py-cpuinfo
+psutil
