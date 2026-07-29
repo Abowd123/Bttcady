@@ -1,0 +1,4 @@
+# Legacy compatibility example only. Do not place real secrets here.
+# The repaired bot will read its configuration from environment variables.
+token = ""
+owner_id = 0
